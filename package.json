@@ -1,0 +1,30 @@
+{
+  "name": "ti18n",
+  "version": "1.0.0",
+  "description": "A bare-bones i18n library with color support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haykam821/ti18n.git"
+  },
+  "keywords": [
+    "tint",
+    "color",
+    "chalk",
+    "i18n"
+  ],
+  "author": "haykam821",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haykam821/ti18n/issues"
+  },
+  "homepage": "https://github.com/haykam821/ti18n#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "os-locale": "^2.1.0",
+    "string-replace-with-array": "^1.0.1"
+  }
+}
